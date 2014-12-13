@@ -1,0 +1,43 @@
+-nologo
+-out:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\SHE Controller.exe
+-arch:x86
+-timestamp
+-debug:2
+-res:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\resources.res
+-entry:_CVIWinMainStartupCodeForDebugging@0
+-base:0x400000
+-linked:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\linkersummary.txt
+-dlldeps:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\dlldependencies.txt
+-licensing:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\linkerlicensing.txt
+-browsedeps:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\moduledependencies.txt
+-stackreserve:1048576
+-stackcommit:4096
+-in:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\2400_Mag_Control.obj
+-in:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\CNS_angle.obj
+-in:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\Greg dvdi.obj
+-in:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\Keithley2k.obj
+-in:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\Lockins.obj
+-in:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\SHE_Controller_CB.obj
+-in:c:\Users\TopMob\Dropbox\Data Shuttle\Equipment and Automation\Programs\Greg's tabletop dvdi 0.1\cvibuild.Greg's tabletop dVdI\Debug\Yoko.obj
+-more:c:\program files (x86)\national instruments\cvi2013\bin\msvc\cvistart.lib
+-more:c:\program files (x86)\national instruments\cvi2013\bin\msvc\cvi.lib
+-more:c:\program files (x86)\national instruments\cvi2013\sdk\lib\msvc\advapi32.lib
+-more:c:\ProgramData\National Instruments\CVI2013\bin\msvc\analysis.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\cviauto.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\cviddc.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\cvidotnet.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\cvinetstreams.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\cvinetv.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\cvintwrk.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\cvitdms.lib
+-more:c:\program files (x86)\national instruments\cvi2013\sdk\lib\msvc\gdi32.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\gpib.lib
+-more:c:\program files (x86)\national instruments\cvi2013\sdk\lib\msvc\kernel32.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\nisyscfg.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\nivxi.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\bin\msvc\omp.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2013\toolslib\toolbox\msvc\toolbox.obj
+-more:c:\program files (x86)\national instruments\cvi2013\sdk\lib\msvc\user32.lib
+-more:c:\program files (x86)\national instruments\cvi2013\sdk\lib\msvc\uuid.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\visa.lib
+-more:c:\program files (x86)\national instruments\cvi2013\sdk\lib\msvc\winmm.lib

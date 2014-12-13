@@ -1,0 +1,20 @@
+[mag_2400_init]
+Class="Function"
+Prototype="void mag_2400_init();"
+
+[mag_2400_setv]
+Class="Function"
+Prototype="void mag_2400_setv(double volts);"
+
+[mag_2400_sett]
+Class="Function"
+Prototype="void mag_2400_sett(double tesla);"
+
+[mag_tesla_to_volts]
+Class="Function"
+Prototype="double mag_tesla_to_volts(double tesla);"
+
+[mag_2400_read_volts]
+Class="Function"
+Prototype="double mag_2400_read_volts();"
+

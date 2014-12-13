@@ -1,0 +1,8 @@
+[keithley2k_init]
+Class="Function"
+Prototype="void keithley2k_init();"
+
+[keithley2k_read]
+Class="Function"
+Prototype="double keithley2k_read();"
+

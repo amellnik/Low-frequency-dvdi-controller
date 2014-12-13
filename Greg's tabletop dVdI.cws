@@ -1,0 +1,379 @@
+[Workspace Header]
+Version = 1300
+Pathname Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Pathname Line0002 = "bletop dvdi 0.1/Greg's tabletop dVdI.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2013"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2013"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "Greg's tabletop dVdI.prj"
+Drag Bar Left = 159
+Window Top = 48
+Window Left = 1190
+Window Bottom = 676
+Window Right = 2299
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 22
+Window Confinement Region Enabled = True
+MainColumnWidth = 142
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1300
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path Line0001 = "/c/Users/TopMob/Documents/Neal/programs/Neal's tabletop dvdi 0.1/NealdVdI Contro"
+Path Line0002 = "ller.uir"
+File Type = "User Interface Resource"
+Disk Date = 3483816527
+In Projects = ""
+Window Top = 32
+Window Left = 10
+Window Height = 349
+Window Width = 683
+Window Z-Order = 4
+
+[File 0002]
+Path = "/c/Users/TopMob/Documents/Jonathan/Greg's tabletop dvdi 0.1/SHE Controller.uir"
+File Type = "User Interface Resource"
+Disk Date = 3474561421
+In Projects = ""
+Window Top = 32
+Window Left = 10
+Window Height = 271
+Window Width = 523
+Window Z-Order = 15
+
+[File 0003]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/SHE Controller.uir"
+File Type = "User Interface Resource"
+Disk Date = 3474561421
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Height = 349
+Window Width = 611
+Window Z-Order = 6
+
+[File 0004]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/Greg dvdi_Sri140226.c"
+File Type = "CSource"
+Disk Date = 3476310791
+In Projects = ""
+Window Top = 32
+Window Left = 10
+Window Z-Order = 9
+Source Window State = "1,0,0,0,0,0,0,0,0,71,0,0,0,0,0,25,309,0,0,0,349,611,1,0,"
+
+[File 0005]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/LF AMR 0."
+Path Line0002 = "1/LF AMR.uir"
+File Type = "User Interface Resource"
+Disk Date = 3445630231
+In Projects = ""
+Window Top = 32
+Window Left = 10
+Window Height = 271
+Window Width = 523
+Window Z-Order = 22
+
+[File 0006]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/CNS_angle.c"
+File Type = "CSource"
+Disk Date = 3467907220
+In Projects = "1,"
+Window Top = 272
+Window Left = 138
+Window Z-Order = 3
+Source Window State = "1,50,50,50,5,18,18,0,0,80,0,7,0,0,0,25,30,0,42,4,349,683,1,11,"
+
+[File 0007]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/CNS_angle.h"
+File Type = "Include"
+Disk Date = 3451915652
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,8,0,0,0,349,683,1,0,"
+
+[File 0008]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/Greg dvdi.c"
+File Type = "CSource"
+Disk Date = 3476307591
+In Projects = "1,"
+Window Top = 242
+Window Left = 122
+Window Z-Order = 1
+Source Window State = "1,213,213,213,5,15,15,0,0,135,0,37,0,0,0,65,181,0,221,21,349,683,1,11,"
+
+[File 0009]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/SHE_Controller_CB.c"
+File Type = "CSource"
+Disk Date = 3468262749
+In Projects = "1,"
+Window Top = 212
+Window Left = 106
+Window Z-Order = 12
+Source Window State = "1,22,22,22,16,25,25,0,0,80,0,0,0,0,0,25,259,0,9,15,349,683,1,0,"
+
+[File 0010]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/SHE_Globals.h"
+File Type = "Include"
+Disk Date = 3468264491
+In Projects = "1,"
+Window Top = 302
+Window Left = 154
+Window Z-Order = 14
+Source Window State = "1,129,129,129,17,21,17,0,0,80,0,54,0,0,0,25,77,0,86,6,349,683,1,0,"
+
+[File 0011]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/Yoko.c"
+File Type = "CSource"
+Disk Date = 3467993506
+In Projects = "1,"
+Window Top = 392
+Window Left = 202
+Window Z-Order = 5
+Source Window State = "1,64,64,64,37,44,44,0,0,80,0,0,0,0,0,25,33,0,45,4,349,683,1,0,"
+
+[File 0012]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/Yoko.h"
+File Type = "Include"
+Disk Date = 3445009944
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 16
+Source Window State = "1,43,43,43,5,20,20,0,3,80,0,0,0,0,0,25,20,0,43,5,349,683,1,0,"
+
+[File 0013]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/2400_Mag_Control.c"
+File Type = "CSource"
+Disk Date = 3459252807
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 18
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,16,76,349,683,1,0,"
+
+[File 0014]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/Keithley2k.c"
+File Type = "CSource"
+Disk Date = 3462806470
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 11
+Source Window State = "1,50,50,50,7,24,24,0,3,80,0,0,0,0,0,25,0,0,50,7,349,683,1,11,"
+
+[File 0015]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/Keithley2k.h"
+File Type = "Include"
+Disk Date = 3462806641
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 21
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,28,20,349,683,1,0,"
+
+[File 0016]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/2400_Mag_Control.h"
+File Type = "Include"
+Disk Date = 3423665159
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 17
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,2,0,0,0,349,683,1,0,"
+
+[File 0017]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/SHE Controller.h"
+File Type = "Include"
+Disk Date = 3474561421
+In Projects = "1,"
+Window Top = 152
+Window Left = 74
+Window Z-Order = 20
+Source Window State = "1,83,83,83,17,29,29,0,3,80,0,0,0,0,0,25,0,0,83,17,349,683,1,0,"
+
+[File 0018]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/SHE_Controller_CB.h"
+File Type = "Include"
+Disk Date = 3423583470
+In Projects = "1,"
+Window Top = 182
+Window Left = 90
+Window Z-Order = 19
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,0,0,349,683,1,0,"
+
+[File 0019]
+Path = "/c/Program Files (x86)/National Instruments/CVI2013/include/ansi/math.h"
+File Type = "Include"
+Disk Date = 3455103600
+In Projects = ""
+Window Top = 32
+Window Left = 10
+Window Z-Order = 13
+Source Window State = "1,97,97,97,22,26,26,0,3,80,0,0,0,0,0,25,82,0,97,22,349,683,1,0,"
+
+[File 0020]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/Lockins.c"
+File Type = "CSource"
+Disk Date = 3423656262
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 7
+Source Window State = "1,57,57,57,9,13,13,0,0,80,0,0,0,0,0,25,0,0,60,4,349,683,1,0,"
+
+[File 0021]
+Path Line0001 = "/c/Users/TopMob/Dropbox/Data Shuttle/Equipment and Automation/Programs/Greg's ta"
+Path Line0002 = "bletop dvdi 0.1/Lockins.h"
+File Type = "Include"
+Disk Date = 3423658339
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 2
+Source Window State = "1,33,33,33,2,9,9,0,0,80,0,27,0,0,0,25,0,0,43,37,349,683,1,27,"
+
+[File 0022]
+Path = "/c/Program Files (x86)/National Instruments/CVI2013/include/gpib.h"
+File Type = "Include"
+Disk Date = 3464713174
+In Projects = ""
+Window Top = 62
+Window Left = 26
+Window Z-Order = 8
+Source Window State = "1,106,106,106,16,20,20,0,3,71,0,0,0,0,0,17,5,0,106,16,245,611,1,0,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+

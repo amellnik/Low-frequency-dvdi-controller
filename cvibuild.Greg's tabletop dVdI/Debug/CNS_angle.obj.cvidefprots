@@ -1,0 +1,8 @@
+[CNS_initialize]
+Class="Function"
+Prototype="void CNS_initialize();"
+
+[CNS_set_angle]
+Class="Function"
+Prototype="void CNS_set_angle();"
+

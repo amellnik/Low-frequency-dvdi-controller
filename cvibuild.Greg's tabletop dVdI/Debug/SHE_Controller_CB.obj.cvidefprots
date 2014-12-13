@@ -1,0 +1,92 @@
+[DEBUG_CB]
+Class="Function"
+Prototype="int DEBUG_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[CONFIG_CB]
+Class="Function"
+Prototype="int CONFIG_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MAG_RAMP_CB]
+Class="Function"
+Prototype="int MAG_RAMP_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MAG_SWEEP_CB]
+Class="Function"
+Prototype="int MAG_SWEEP_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[INTERRUPT_CB]
+Class="Function"
+Prototype="int INTERRUPT_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[CLEAR_DATA_CB]
+Class="Function"
+Prototype="int CLEAR_DATA_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SAVE_CB]
+Class="Function"
+Prototype="int SAVE_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[RF_FREQ_CB]
+Class="Function"
+Prototype="int RF_FREQ_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[RF_POWER_SWEEP_CB]
+Class="Function"
+Prototype="int RF_POWER_SWEEP_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[RF_SWEEP_CB]
+Class="Function"
+Prototype="int RF_SWEEP_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[RF_POWER_CB]
+Class="Function"
+Prototype="int RF_POWER_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[CURRENT_CB]
+Class="Function"
+Prototype="int CURRENT_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[CURRENT_SWEEP_CB]
+Class="Function"
+Prototype="int CURRENT_SWEEP_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[AUTO_SAVE_CB]
+Class="Function"
+Prototype="int AUTO_SAVE_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[LOOP_FROM_FILE_CB]
+Class="Function"
+Prototype="int LOOP_FROM_FILE_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MANUAL_VOLT_CB]
+Class="Function"
+Prototype="int MANUAL_VOLT_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[USE_ANGLE_CB]
+Class="Function"
+Prototype="int USE_ANGLE_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ANGLE_SWEEP_CB]
+Class="Function"
+Prototype="int ANGLE_SWEEP_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ANGLE_SET_CB]
+Class="Function"
+Prototype="int ANGLE_SET_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ROTATE_SWEEP_CB]
+Class="Function"
+Prototype="int ROTATE_SWEEP_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[PLOT_WHAT_CB]
+Class="Function"
+Prototype="int PLOT_WHAT_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[BIAS_SWEEP_CB]
+Class="Function"
+Prototype="int BIAS_SWEEP_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[BIAS_USE_2K_CB]
+Class="Function"
+Prototype="int BIAS_USE_2K_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

@@ -1,0 +1,72 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[Debug]
+Class="Function"
+Prototype="void Debug();"
+
+[SetUp]
+Class="Function"
+Prototype="void SetUp();"
+
+[MakeAutoFilename]
+Class="Function"
+Prototype="void MakeAutoFilename();"
+
+[BiasSweep]
+Class="Function"
+Prototype="void BiasSweep();"
+
+[AngleSweep]
+Class="Function"
+Prototype="void AngleSweep();"
+
+[RotateAngleSweep]
+Class="Function"
+Prototype="void RotateAngleSweep();"
+
+[BiasScan]
+Class="Function"
+Prototype="void BiasScan();"
+
+[AllocateMemForData]
+Class="Function"
+Prototype="void AllocateMemForData();"
+
+[TakeSingle]
+Class="Function"
+Prototype="void TakeSingle();"
+
+[UpdateGraph]
+Class="Function"
+Prototype="void UpdateGraph();"
+
+[ClearData]
+Class="Function"
+Prototype="void ClearData();"
+
+[Sweep]
+Class="Function"
+Prototype="void Sweep();"
+
+[SetMag]
+Class="Function"
+Prototype="void SetMag();"
+
+[sign]
+Class="Function"
+Prototype="double sign(double val);"
+
+[SaveData]
+Class="Function"
+Prototype="void SaveData();"
+
+[RunScanFile]
+Class="Function"
+Prototype="void RunScanFile();"
+
+[panelCB]
+Class="Function"
+Prototype="int panelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+

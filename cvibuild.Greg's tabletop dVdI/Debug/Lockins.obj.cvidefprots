@@ -1,0 +1,12 @@
+[lockin_init]
+Class="Function"
+Prototype="void lockin_init(int n);"
+
+[lockin_xvolts]
+Class="Function"
+Prototype="double lockin_xvolts(int n);"
+
+[lockin_xvolts_n]
+Class="Function"
+Prototype="double lockin_xvolts_n(int n, int samps);"
+

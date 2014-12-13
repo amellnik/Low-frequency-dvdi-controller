@@ -1,0 +1,16 @@
+[YOKO_initialize]
+Class="Function"
+Prototype="void YOKO_initialize();"
+
+[YOKO_mA]
+Class="Function"
+Prototype="void YOKO_mA();"
+
+[YOKO_set]
+Class="Function"
+Prototype="void YOKO_set(double val);"
+
+[YOKO_10V]
+Class="Function"
+Prototype="void YOKO_10V();"
+
